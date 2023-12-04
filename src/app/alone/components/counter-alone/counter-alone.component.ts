@@ -4,7 +4,7 @@ import { Component, Input } from '@angular/core';
   selector: 'counter-alone',
   standalone: true,
   templateUrl: './counter-alone.component.html',
-  styleUrls: ['./counter-alone.component.css']
+  styleUrls: ['./counter-alone.component.css'],
 })
 export class CounterAloneComponent {
 
